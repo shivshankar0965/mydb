@@ -1,14 +1,32 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": "1",
+    "product_name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops\"",
+    "price": "10906",
+    "img_url": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": "2",
+    "product_name": "Mens Casual Premium Slim Fit T-Shirts",
+    "price": "999",
+    "img_url": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+  },
+  {
+    "id": "3",
+    "product_name": "Mens Cotton Jacket\"",
+    "price": "139",
+    "img_url": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+  },
+  {
+    "id": "4",
+    "product_name": "Mens Casual Slim Fit",
+    "price": "499",
+    "img_url": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+  },
+  {
+    "id": "5",
+    "product_name": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": "4566",
+    "img_url": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
   }
-}
+]
